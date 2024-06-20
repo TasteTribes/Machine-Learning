@@ -1,0 +1,33 @@
+CALL db.schema.visualization();
+
+view all nodes:
+MATCH (n) RETURN n;
+
+count:
+MATCH (n) RETURN count(n);
+
+how many nodes there are of each label
+MATCH (n) RETURN labels(n), count(n);
+
+view just one node:
+MATCH (n: Category) RETURN n;
+
+If contains_alcohol is a node and you want to see all nodes related to it:
+MATCH (n)-[r]->(c:contains_alcohol)
+RETURN n, r, c;
+
+find a node with a specific property:
+MATCH (n)
+WHERE n.contains_alcohol = true
+RETURN n;
+
+
+Deleting:
+Delete nodes with a specific name
+MATCH (n:Processed) DETACH DELETE n;
+
+Deleting nodes with a common label:
+MATCH (n:ProcessingType)
+WHERE n.type IN ["Processed", "Ultra-Processed", "Raw"]
+DETACH DELETE n;
+

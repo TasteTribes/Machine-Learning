@@ -1,0 +1,815 @@
+{
+  "Retailer": "Woolworths",
+  "SearchTerm": "coke",
+  "Products": [
+    {
+      "Name": "Coca - Cola Classic  Soft Drink Bottle",
+      "DisplayName": "Coca - Cola Classic  Soft Drink Bottle 1.25l",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675001113",
+      "Stockcode": 32731,
+      "PackageSize": "1.25l",
+      "Price": 3.85,
+      "IsInStock": true,
+      "CupPrice": 3.08,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/032731.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": "Wheat Free",
+      "LifestyleAndDietaryStatement": "Low Salt",
+      "HealthStarRating": "0.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": null,
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {
+        "Calcium": "1mg",
+        "Carbohydrate": "10.60g",
+        "Energy kJ": "180.00kJ",
+        "Fat Saturated": "0.00g",
+        "Fat Total": "0.00g",
+        "Fat Total Quantity Per 100g - ValueWord - NIP": "0.00",
+        "Potassium": "1mg",
+        "Protein": "0.00g",
+        "Sodium": "10.00mg",
+        "Sugars Quantity Per 100g - Prefix - NIP": null,
+        "Sugars Quantity Per 100g - SuffixUnits - NIP": "g",
+        "Sugars": "10.60g",
+        "Sugars Quantity Per 100g - ValueWord - NIP": "10.60"
+      },
+      "DietaryLabels": "Low Salt",
+      "Ingredients_orig": "Carbonated Water, Sugar, Colour (150d), Food Acid (338), Flavour, Caffeine.",
+      "Ingredients": [
+        {
+          "name": "Carbonated Water",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Sugar",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "150d",
+          "category": "Colour",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Food Acid (338)",
+          "category": "Other",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Flavour",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Caffeine.",
+          "category": "Other",
+          "status": "cleaned"
+        }
+      ],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca - Cola Zero Sugar Soft Drink Bottle",
+      "DisplayName": "Coca - Cola Zero Sugar Soft Drink Bottle 1.25l",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675079488",
+      "Stockcode": 623034,
+      "PackageSize": "1.25L",
+      "Price": 3.85,
+      "IsInStock": true,
+      "CupPrice": 3.08,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/623034.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": "Wheat Free",
+      "LifestyleAndDietaryStatement": "Low Salt",
+      "HealthStarRating": "3.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": null,
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {
+        "Carbohydrate": "0.03g",
+        "Dietary Fibre": "0.00g",
+        "Energy kJ": "1.20kJ",
+        "Fat Saturated": "0.00g",
+        "Fat Total": "0.00g",
+        "Fat Total Quantity Per 100g - ValueWord - NIP": "0.00",
+        "Protein": "0.02g",
+        "Sodium": "4.10mg",
+        "Sugars Quantity Per 100g - Prefix - NIP": null,
+        "Sugars Quantity Per 100g - SuffixUnits - NIP": "g",
+        "Sugars": "0.00g",
+        "Sugars Quantity Per 100g - ValueWord - NIP": "0.00"
+      },
+      "DietaryLabels": "Low Salt",
+      "Ingredients_orig": "Carbonated Water, Colour (150d), Food Acids (338, 331), Sweeteners (951, 950), Flavour, Caffeine.",
+      "Ingredients": [
+        {
+          "name": "Carbonated Water",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "150d",
+          "category": "Colour",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "338",
+          "category": "Food Acids",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "331",
+          "category": "Food Acids",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "951",
+          "category": "Sweeteners",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "950",
+          "category": "Sweeteners",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Flavour",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Caffeine.",
+          "category": "Other",
+          "status": "cleaned"
+        }
+      ],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca - Cola Zero Sugar Soft Drink Bottle",
+      "DisplayName": "Coca - Cola Zero Sugar Soft Drink Bottle 2l",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675079501",
+      "Stockcode": 672966,
+      "PackageSize": "2L",
+      "Price": 4.9,
+      "IsInStock": true,
+      "CupPrice": 2.45,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/672966.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": "Wheat Free",
+      "LifestyleAndDietaryStatement": "Low Salt",
+      "HealthStarRating": "3.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": null,
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {
+        "Carbohydrate": "0.03g",
+        "Dietary Fibre": "0.00g",
+        "Energy kJ": "1.20kJ",
+        "Fat Saturated": "0.00g",
+        "Fat Total": "0.00g",
+        "Fat Total Quantity Per 100g - ValueWord - NIP": "0.00",
+        "Protein": "0.02g",
+        "Sodium": "4.10mg",
+        "Sugars Quantity Per 100g - SuffixUnits - NIP": "g",
+        "Sugars": "0.00g",
+        "Sugars Quantity Per 100g - ValueWord - NIP": "0.00"
+      },
+      "DietaryLabels": "Low Salt",
+      "Ingredients_orig": "Carbonated Water, Colour (150d), Food Acids (338,,331), Sweeteners (951, 950), Flavour, Caffeine.",
+      "Ingredients": [
+        {
+          "name": "Carbonated Water",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "150d",
+          "category": "Colour",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "338",
+          "category": "Food Acids",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "",
+          "category": "Food Acids",
+          "status": "cleaned"
+        },
+        {
+          "name": "331",
+          "category": "Food Acids",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "951",
+          "category": "Sweeteners",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "950",
+          "category": "Sweeteners",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Flavour",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Caffeine.",
+          "category": "Other",
+          "status": "cleaned"
+        }
+      ],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca - Cola Classic  Soft Drink Bottle Bottle",
+      "DisplayName": "Coca - Cola Classic  Soft Drink Bottle 2l",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675001007",
+      "Stockcode": 38121,
+      "PackageSize": "2l",
+      "Price": 4.9,
+      "IsInStock": true,
+      "CupPrice": 2.45,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/038121.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": "Wheat Free",
+      "LifestyleAndDietaryStatement": "Low Salt",
+      "HealthStarRating": "0.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": null,
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {
+        "Calcium": "1mg",
+        "Carbohydrate": "10.60g",
+        "Energy kJ": "180.00kJ",
+        "Fat Saturated": "0.00g",
+        "Fat Total": "0.00g",
+        "Fat Total Quantity Per 100g - ValueWord - NIP": "0.00",
+        "Potassium": "1mg",
+        "Protein": "0.00g",
+        "Sodium": "10.00mg",
+        "Sugars Quantity Per 100g - Prefix - NIP": null,
+        "Sugars Quantity Per 100g - SuffixUnits - NIP": "g",
+        "Sugars": "10.60g",
+        "Sugars Quantity Per 100g - ValueWord - NIP": "10.60"
+      },
+      "DietaryLabels": "Low Salt",
+      "Ingredients_orig": "Carbonated Water, Sugar, Colour (150d), Food Acid (338), Flavour, Caffeine.",
+      "Ingredients": [
+        {
+          "name": "Carbonated Water",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Sugar",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "150d",
+          "category": "Colour",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Food Acid (338)",
+          "category": "Other",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Flavour",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Caffeine.",
+          "category": "Other",
+          "status": "cleaned"
+        }
+      ],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca - Cola Classic  Soft Drink Mini Bottles",
+      "DisplayName": "Coca - Cola Classic  Soft Drink Mini Bottles 300ml X 12 Pack",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675038836",
+      "Stockcode": 313019,
+      "PackageSize": "300ml X 12 Pack",
+      "Price": 19,
+      "IsInStock": true,
+      "CupPrice": 5.28,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/313019.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": "Wheat Free",
+      "LifestyleAndDietaryStatement": "Low Salt",
+      "HealthStarRating": "0.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": "1674",
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {
+        "Calcium": "1mg",
+        "Carbohydrate": "10.60g",
+        "Energy kJ": "180.00kJ",
+        "Fat Saturated": "0.00g",
+        "Fat Total": "0.00g",
+        "Fat Total Quantity Per 100g - ValueWord - NIP": "0.00",
+        "Potassium": "1mg",
+        "Protein": "0.00g",
+        "Sodium": "10.00mg",
+        "Sugars Quantity Per 100g - Prefix - NIP": null,
+        "Sugars Quantity Per 100g - SuffixUnits - NIP": "g",
+        "Sugars": "10.60g",
+        "Sugars Quantity Per 100g - ValueWord - NIP": "10.60"
+      },
+      "DietaryLabels": "Low Salt",
+      "Ingredients_orig": "Carbonated Water, Sugar, Colour (150d), Food Acid (338), Flavour, Caffeine.",
+      "Ingredients": [
+        {
+          "name": "Carbonated Water",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Sugar",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "150d",
+          "category": "Colour",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Food Acid (338)",
+          "category": "Other",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Flavour",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Caffeine.",
+          "category": "Other",
+          "status": "cleaned"
+        }
+      ],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca - Cola Vanilla  Soft Drink Bottle Bottle",
+      "DisplayName": "Coca - Cola Vanilla  Soft Drink Bottle 1.25l",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675020961",
+      "Stockcode": 180941,
+      "PackageSize": "1.25l",
+      "Price": 3.85,
+      "IsInStock": true,
+      "CupPrice": 3.08,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/180941.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": "Wheat Free",
+      "LifestyleAndDietaryStatement": "Low Salt",
+      "HealthStarRating": "0.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": null,
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {
+        "Calcium": "1mg",
+        "Carbohydrate": "11.00g",
+        "Energy kJ": "185.00kJ",
+        "Fat Saturated": "0.00g",
+        "Fat Total": "0.00g",
+        "Fat Total Quantity Per 100g - ValueWord - NIP": "0.00",
+        "Potassium": "1mg",
+        "Protein": "0.00g",
+        "Sodium": "10.00mg",
+        "Sugars Quantity Per 100g - Prefix - NIP": null,
+        "Sugars Quantity Per 100g - SuffixUnits - NIP": "g",
+        "Sugars": "10.90g",
+        "Sugars Quantity Per 100g - ValueWord - NIP": "10.90"
+      },
+      "DietaryLabels": "Low Salt",
+      "Ingredients_orig": "Carbonated Water, Sugar, Colour (150d), Food Acid (338), Flavour, Caffeine.",
+      "Ingredients": [
+        {
+          "name": "Carbonated Water",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Sugar",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "150d",
+          "category": "Colour",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Food Acid (338)",
+          "category": "Other",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Flavour",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "Caffeine.",
+          "category": "Other",
+          "status": "cleaned"
+        }
+      ],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca - Cola Zero Sugar Soft Drink Mini Bottles",
+      "DisplayName": "Coca - Cola Zero Sugar Soft Drink Mini Bottles 12 X 300ml",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675084581",
+      "Stockcode": 679122,
+      "PackageSize": "12 x 300ml",
+      "Price": 19,
+      "IsInStock": true,
+      "CupPrice": 5.28,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/679122.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": "Wheat Free",
+      "LifestyleAndDietaryStatement": "Low Salt",
+      "HealthStarRating": "3.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": "1674",
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {
+        "Carbohydrate": "0.03g",
+        "Dietary Fibre": "0.00g",
+        "Energy kJ": "1.20kJ",
+        "Fat Saturated": "0.00g",
+        "Fat Total": "0.00g",
+        "Fat Total Quantity Per 100g - ValueWord - NIP": "0.00",
+        "Protein": "0.02g",
+        "Sodium": "4.10mg",
+        "Sugars Quantity Per 100g - Prefix - NIP": null,
+        "Sugars Quantity Per 100g - SuffixUnits - NIP": "g",
+        "Sugars": "0.00g",
+        "Sugars Quantity Per 100g - ValueWord - NIP": "0.00"
+      },
+      "DietaryLabels": "Low Salt",
+      "Ingredients_orig": "Carbonated water, colour (150d), food acids (338, 331), sweeteners (951, 950), flavour, caffeine.",
+      "Ingredients": [
+        {
+          "name": "Carbonated water",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "colour (150d)",
+          "category": "Other",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "food acids (338, 331)",
+          "category": "Other",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "sweeteners (951, 950)",
+          "category": "Other",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "flavour",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "caffeine.",
+          "category": "Other",
+          "status": "cleaned"
+        }
+      ],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca - Cola Classic Soft Drink Multipack Glass Bottles",
+      "DisplayName": "Coca - Cola Classic Soft Drink Multipack Glass Bottles 4 X 330ml",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675093859",
+      "Stockcode": 290133,
+      "PackageSize": "4 x 330mL",
+      "Price": 6.4,
+      "IsInStock": true,
+      "CupPrice": 4.85,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/290133.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": null,
+      "LifestyleAndDietaryStatement": null,
+      "HealthStarRating": "0.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": null,
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {},
+      "DietaryLabels": null,
+      "Ingredients_orig": null,
+      "Ingredients": [],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca - Cola Caffeine Free Zero Sugar Soft Drink Bottle",
+      "DisplayName": "Coca - Cola Caffeine Free Zero Sugar Soft Drink Bottle 1.25l",
+      "Brand": "Coca - Cola",
+      "Barcode": "9300675089883",
+      "Stockcode": 137848,
+      "PackageSize": "1.25L",
+      "Price": 3.85,
+      "IsInStock": true,
+      "CupPrice": 3.08,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/137848.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": "GROCERIES",
+      "SapCategoryName": "CARBONATED SOFT DRINKS",
+      "SapSubcategoryName": "SOFT DRINKS - BOTTLES & CANS",
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": "Wheat Free",
+      "LifestyleAndDietaryStatement": "Gluten Free",
+      "HealthStarRating": "3.5",
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": null,
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {
+        "Carbohydrate": "0.10g",
+        "Dietary Fibre": "0.00g",
+        "Energy kJ": "0.80kJ",
+        "Fat Saturated": "0.00g",
+        "Fat Total": "0.00g",
+        "Fat Total Quantity Per 100g - ValueWord - NIP": "0.00",
+        "Protein": "0.05g",
+        "Sodium": "4.10mg",
+        "Sugars Quantity Per 100g - SuffixUnits - NIP": "g",
+        "Sugars": "0.00g",
+        "Sugars Quantity Per 100g - ValueWord - NIP": "0.00"
+      },
+      "DietaryLabels": "Gluten Free",
+      "Ingredients_orig": "Carbonated Water, Colour (150d), Food Acids (338,331), Sweeteners (952, 950, 951), Flavour.",
+      "Ingredients": [
+        {
+          "name": "Carbonated Water",
+          "category": "Other",
+          "status": "cleaned"
+        },
+        {
+          "name": "150d",
+          "category": "Colour",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "338",
+          "category": "Food Acids",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "331",
+          "category": "Food Acids",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "952",
+          "category": "Sweeteners",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "950",
+          "category": "Sweeteners",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "951",
+          "category": "Sweeteners",
+          "status": "nlp_candidate"
+        },
+        {
+          "name": "Flavour.",
+          "category": "Other",
+          "status": "cleaned"
+        }
+      ],
+      "OriginOfIngredients": null
+    },
+    {
+      "Name": "Coca Cola 600ml Coke pk24",
+      "DisplayName": "Coca Cola 600ml Coke pk24",
+      "Brand": "Coca-Cola",
+      "Barcode": null,
+      "Stockcode": 1074294363,
+      "PackageSize": "14400ML",
+      "Price": 83.7,
+      "IsInStock": true,
+      "CupPrice": 5.81,
+      "CupMeasure": "1L",
+      "SmallImageFile": "https://cdn1.woolworths.media/content/wowproductimages/small/1074294363.jpg",
+      "Unit": "Each",
+      "AgeRestricted": false,
+      "SapDepartmentName": null,
+      "SapCategoryName": null,
+      "SapSubcategoryName": null,
+      "PiesDepartmentNamesJson": null,
+      "PiesCategoryNamesJson": null,
+      "PiesSubcategoryNamesJson": null,
+      "AllergyStatement": null,
+      "LifestyleAndDietaryStatement": null,
+      "HealthStarRating": null,
+      "ImportantInformation": null,
+      "ProductDepthMm": null,
+      "FragranceFree": null,
+      "DermatologistTested": null,
+      "WoolProductPackaging": null,
+      "DermatologicallyApproved": null,
+      "SpecialsGroupId": null,
+      "LifestyleClaim": null,
+      "AlcoholFree": null,
+      "AllergenMayBePresent": null,
+      "ContainsGluten": "False",
+      "ContainsNuts": "False",
+      "CountryOfOrigin": null,
+      "NutritionalInformation": {},
+      "DietaryLabels": null,
+      "Ingredients_orig": null,
+      "Ingredients": [],
+      "OriginOfIngredients": null
+    }
+  ]
+}
